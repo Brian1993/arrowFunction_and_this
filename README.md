@@ -16,7 +16,7 @@ let user = {
 我們要使用 user 裡面的 func 函式時，通常會用  
 
 ``` javascript 
-object.func()
+user.func()
 ```
 我們也會得到結果 this 就是 user 這個 object ， 但如果我們換一個寫法
 
